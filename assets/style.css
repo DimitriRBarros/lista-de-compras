@@ -1,0 +1,38 @@
+html {
+    background-image: url('https://www.infomoney.com.br/wp-content/uploads/2019/06/compras-de-supermercado.jpg?resize=900%2C515&quality=50&strip=all');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+}
+
+h2, footer {
+    font-family: 'Mansalva';
+}
+
+button {
+    border: none;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: dotted 2px black;
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+}
+
+input {
+    border: none;
+    background: none;
+    color: black;
+}
+
